@@ -7,7 +7,7 @@ DataBite is a web-based chatbot that simplifies data science and analytics terms
 - Explains terms in simple, 10-year-old-friendly language.
 ![DataBite Chatbot](assets/screenshot1.png)
 ![DataBite Chatbot](assets/screenshot2.png)
-![DataBite Chatbot](assets/screenshot3.png)
+
 
 ## Example
 - **Q**: "What is a neural network?"
