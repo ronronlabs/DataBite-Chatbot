@@ -13,7 +13,7 @@ DataBite is a web-based chatbot that simplifies data science and analytics terms
 - **A**: "An algorithm is like a recipe for your favorite cake. It’s a set of steps a computer follows to solve a problem."
 
 ## Setup
-1. Clone the repo: `git clone https://github.com/your-username/DataBite-Chatbot.git`
+1. Clone the repo: `git clone https://github.com/pegasuschild/DataBite-Chatbot.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Set environment variables:
    - `HF_TOKEN`: Hugging Face API key (get from [huggingface.co](https://huggingface.co)).
