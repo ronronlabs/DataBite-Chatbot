@@ -5,15 +5,14 @@ DataBite is a web-based chatbot that simplifies data science and analytics terms
 ## Features
 - Answers questions about data science, analytics, and risk (e.g., "What is a neural network?").
 - Explains terms in simple, 10-year-old-friendly language.
-![DataBite Chatbot](assets/screenshot1.png)
-![DataBite Chatbot](assets/screenshot2.png)
-
 
 ## Example
 - **Q**: "What is a neural network?"
 - **A**: "A neural network is like a computer brain. It learns from examples to do things like recognize pictures or predict numbers."
 - **Q**: "What is an algorithm?"
 - **A**: "An algorithm is like a recipe for your favorite cake. It’s a set of steps a computer follows to solve a problem."
+![DataBite Chatbot](assets/screenshot1.png)
+![DataBite Chatbot](assets/screenshot2.png)
 
 ## Setup
 1. Clone the repo: `git clone https://github.com/pegasuschild/DataBite-Chatbot.git`
@@ -30,6 +29,9 @@ DataBite is a web-based chatbot that simplifies data science and analytics terms
 - Hugging Face Inference API (Mixtral-8x7B model)
 - FuzzyWuzzy (for question matching)
 - Ngrok (for web hosting)
+
+## Development
+The Colab notebook (`DataBite_Chatbot.ipynb`) contains the development process, including code cells for creating and testing the chatbot in Google Colab.
 
 ## About
 Built by Daniel Young as a portfolio project to showcase Python and Streamlit skills in rapid prototyping for data science education.
