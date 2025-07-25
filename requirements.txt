@@ -1,0 +1,5 @@
+streamlit==1.39.0
+pyngrok==7.2.0
+huggingface_hub==0.25.1
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.26.0
