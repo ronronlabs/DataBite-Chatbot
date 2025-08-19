@@ -2,16 +2,22 @@
 
 DataBite is a web-based chatbot that simplifies data science and analytics terms with ~100-word explanations, like a dictionary for beginners. Built with Python, Streamlit, and Hugging Face's Inference API, it promotes **Data Democratization** by making complex concepts accessible to all.
 
+![Sample Report](XGBoost.png)
+
+
 ## Features
 - Answers questions about data science, analytics, and risk (e.g., "What is a neural network?").
 - Explains terms in simple, 10-year-old-friendly language.
+
 
 ## Example
 - **Q**: "What is a neural network?"
 - **A**: "A neural network is like a computer brain. It learns from examples to do things like recognize pictures or predict numbers."
 - **Q**: "What is an algorithm?"
 - **A**: "An algorithm is like a recipe for your favorite cake. It’s a set of steps a computer follows to solve a problem."
+
 ![DataBite Chatbot](assets/screenshot1.png)
+
 ![DataBite Chatbot](assets/screenshot2.png)
 
 ## Setup
